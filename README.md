@@ -1,6 +1,6 @@
-# template-datascience
+# DeepLearning.AI Courses
 
-Template for Data Science, Machine Learning and Deep Learning projects
+Project to store DeepLearning Courses Labs
 
 ## Summary
 
